@@ -1,0 +1,6 @@
+B1: Tải NodeJS 
+B2: bật cmd ở trên đường dẫn thư mục
+B3: gõ lần lượt các lệnh sau 
+npm i -g yarn 
+yarn add webpack webpack-cli --save-dev 
+yarn start

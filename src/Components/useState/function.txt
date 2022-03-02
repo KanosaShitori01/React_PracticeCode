@@ -1,0 +1,2 @@
+Chức năng của useState: 
+- Thay đổi giá trị của một biến/đối tượng trong thời gian thực.

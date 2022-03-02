@@ -1,0 +1,2 @@
+Chức năng của useRef: 
+Gần giống với document.querySelector của JS Vanilla, là điều khiển một element html
